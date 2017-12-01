@@ -1,0 +1,11 @@
+1;Shalala;Gustavo Lima
+2;Balada;Gustavo Lima
+3;Versos e Vinhos;Gustavo Lima
+1;Então toma;Emicida
+2;Hoje cedo;Emicida
+1;Vai dar pt;Leo Santana
+2;Vai no chão;Leo Santana
+3;Abana;Leo Santana
+1;O leãozinho;Caetano Veloso
+2;Odara;Caetano Veloso
+3;Reconvexo;Caetano Veloso
